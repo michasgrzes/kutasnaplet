@@ -1,1 +1,1 @@
-![kutas(images.jpeg)
+![kutas](images.jpeg)
